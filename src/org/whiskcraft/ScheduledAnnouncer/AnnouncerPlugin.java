@@ -252,12 +252,7 @@ public class AnnouncerPlugin extends JavaPlugin {
         saveConfiguration();
     }
 
-    /**
-     * @return the logger used by this plugin.
-     */
-    public Logger getLogger() {
-        return logger;
-    }
+
 
     public boolean isAnnouncerEnabled() {
         return enabled;
