@@ -1,10 +1,9 @@
-name: ScheduledAnnouncer
+name: ScheduledAnnouncer2
 main: org.whiskcraft.ScheduledAnnouncer.AnnouncerPlugin
 version: 1.0 - For 1.2.5
 description: Automatically Announce tips and news!
 website: http://github.com/whisk1/ScheduledAnnouncer
 authors:
- - 'miho'
  - 'whisk1'
 
 commands:
@@ -41,5 +40,5 @@ permissions:
         description: Allows you to change properties the plugin.
         default: op
     announce.admin:
-        description: Allows you load, save and restart the plugin.
+        description: Allows you to load, save and restart the plugin.
         default: op
