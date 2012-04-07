@@ -1,5 +1,5 @@
 name: ScheduledAnnouncer
-main: at.co.hohl.Announcer.AnnouncerPlugin
+main: org.whiskcraft.ScheduledAnnouncer.AnnouncerPlugin
 version: 1.0 - For 1.2.5
 description: Automatically Announce tips and news!
 website: http://github.com/whisk1/ScheduledAnnouncer
