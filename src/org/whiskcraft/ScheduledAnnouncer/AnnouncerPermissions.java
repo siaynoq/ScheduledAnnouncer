@@ -13,11 +13,10 @@
  * Place, Suite 330, Boston, MA 02111-1307 USA
  */
 
-package at.co.hohl.Announcer;
+package org.whiskcraft.ScheduledAnnouncer;
 
 /**
  * Static container for the permissions.
- *
  * @author MiHo
  */
 public final class AnnouncerPermissions {
